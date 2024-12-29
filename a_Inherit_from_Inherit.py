@@ -104,10 +104,10 @@ class Admin(Employee):
 
 
 # Example Usage
-person = Person("John", "Doe")
-student = Student("Alice", "Smith", 2024)
-alumni = Alumni("Bob", "Brown", 2020, 2021)
-current_student = CurrentStudent("Cathy", "Davis", 2025, "6th")
+person = Person("Abul", "Kalam")
+student = Student("Shah", "Nur", 2024)
+alumni = Alumni("Mohammad", "Babu", 2020, 2021)
+current_student = CurrentStudent("Amir", "Hamza", 2025, "6th")
 teacher = Teacher("David", "Evans", 1234, 2018)
 admin = Admin("Emily", "Clark", 5678, 2015)
 
